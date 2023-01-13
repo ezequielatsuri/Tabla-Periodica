@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tablaperiodica
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tablaperiodica\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=archivo
+comment1.target=void\ crear(java.lang.String)
+comment2.params=elemento
+comment2.target=void\ buscarE(java.lang.String)
+comment3.params=clasifi
+comment3.target=void\ buscarC(java.lang.String)
+comment4.params=args
+comment4.target=ST\ rellenar(java.lang.String)
+comment5.params=archivo
+comment5.target=ST\ clasificar(java.lang.String)
+numComments=6

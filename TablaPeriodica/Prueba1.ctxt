@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Prueba1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prueba1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ args[0]\ contiene\ el\ nombre\ del\ archivo\ de\ elementos\:\ elementos.csv\r\nActive\ buffering\ ilimitado\r\n\ \ \r\n
+numComments=2

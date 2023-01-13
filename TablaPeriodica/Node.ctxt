@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ \ //----------------\ external\ Node\ class\ ----------------\r\n\ Node\ of\ a\ singly\ linked\ list,\ which\ stores\ a\ reference\ to\ its\r\n\ element\ and\ to\ the\ subsequent\ node\ in\ the\ list\ (or\ null\ if\ this\r\n\ is\ the\ last\ node).\r\n
+comment1.params=e\ n
+comment1.target=Node(java.lang.Object,\ Node)
+comment1.text=\r\n\ Creates\ a\ node\ with\ the\ given\ element\ and\ next\ node.\r\n\r\n\ @param\ e\ \ the\ element\ to\ be\ stored\r\n\ @param\ n\ \ reference\ to\ a\ node\ that\ should\ follow\ the\ new\ node\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getElement()
+comment2.text=\ Accessor\ methods\r\n\ @return\ the\ element\ stored\ at\ the\ node\r\n
+comment3.params=
+comment3.target=Node\ getNext()
+comment3.text=\r\n\ Returns\ the\ node\ that\ follows\ this\ one\ (or\ null\ if\ no\ such\ node).\r\n\ @return\ the\ following\ node\r\n
+comment4.params=n
+comment4.target=void\ setNext(Node)
+comment4.text=\ Modifier\ methods\r\n\ Sets\ the\ node's\ next\ reference\ to\ point\ to\ Node\ n.\r\n\ @param\ n\ \ \ \ the\ node\ that\ should\ follow\ this\ one\r\n
+numComments=5

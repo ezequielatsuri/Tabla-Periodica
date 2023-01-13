@@ -1,0 +1,121 @@
+,,,,,,,est,,,,,,
+Hidrogeno,1,H,,1.01,-259.1°C,-252.9°C,Gas,1s1,±1,1,Nometal,1,1
+Helio,2,He,,4.0026,-272.2°C,-268.9°C,Gas,1s2,0,2,Nometal,18,18
+Litio,3,Li,,6.94,180.5°C,1342°C,Solido,[He]2s1,1,1,Metal,1,19
+Berilio,4,Be,,9.01,1278°C,2970°C,Solido,[He]2s2,2,2,Metal,2,20
+Boro,5,B,,10.81, 2079°C,2550°C,Solido,[He]2s22p1,3,3,Metal,13,31
+Carbono,6,C,,12.01,3367°C,4827°C,Solido,[He]2s22p2,±4,4,Nometal,14,32
+Nitrogeno,7,N,,14.01,-209.9°C,-195.8°C,Gas,[He]2s22p3,-3,5,Nometal,15,33
+Oxigeno,8,O,,16,-218.4°C,-183°C,Gas,[He]2s22p4,-2,6,No metal,16,34
+Fluorita,9,F,,19,-219.8°C,-188.1°C,Gas,[He]2s22p5,-1,7,Nometal,17,35
+Neon,10,Ne,,20.18,-248°C,-248.7°C,Gas,[He]2s22p6,0,8,Nometal,19,36
+Sodio,11,Na,,22.99,97.8°C,883°C,Solido, [Ne]3s1,1,1,Metal,1,37
+Magnesio,12,Mg,,24.31,649°C,1090°C,Solido,[Ne]3s2,2,2,Metal,2,38
+Aluminio,13,Al,,26.98,660°C,2467°C,Solido,[Ne]3s23p1,3,3,Metal,13,49
+Silicio,14,Si,,28.09,1410°C,2355°C,Solido,[Ne]3s23p2,±4,4,Metal,14,50
+Fosforo,15,P,,30.98,44.1°C,280°C,Solido,[Ne]3s23p3,-3,5,Nometal,15,51
+Azufre,16,S,,32.06,112.8°C,444.7°C,Solido,[Ne]3s23p4,-2,6,Nometal,16,52
+Cloro,17,Cl,,35.45,-101°C,-34.6°C,Gas,[Ne]3s23p5,-1,7,Nometal,17,53
+Argon,18,Ar,,39.95,-189.2°C,-185.7°C,Gas,[Ne]3s23p6,0,8,Nometal,18,54
+Potasio,19,K,,39.1,63.25°C,760°C,Solido,[Ar]4s1,1,1,Metal,1,55
+Calcio,20,Ca,,40.08,839°C,1484°C,Solido,[Ar]4s2,2,2,Metal,2,56
+Escandio,21,Sc,,44.96,1541°C, 2832°C,Solido,[Ar]3d14s2,3,3,Metal,3,57
+Titanio,22,Ti,,47.9,1660°C,3287°C,Solido,[Ar]3d24s2,4 3 2,4,Metal,4,58
+Vanadio,23,V,,50.94,1890°C, 3380°C,Solido,[Ar]3d34s2,5 2 3 4,5,Metal,5,59
+Cromo,24,Cr,,52,1857°C,2672°C,Solido,[Ar]3d54s1,3 2 6,6,Metal,6,60
+Manganeso,25,Mn,,54.94,1244°C,1962°C,Solido,[Ar]3d54s2,2 3 4 6 7,7,Metal,7,61
+Hierro,26,Fe,,55.85,1535°C,2750°C,Solido,[Ar]3d64s2,3 2,8,Metal,8,62
+Cobalto,27,Co,,58.93,1495°C,2870°C,Solido,[Ar]3d74s2,2 3,9,Metal,9,63
+Niquel,28,Ni,,58.71,1453°C,2730°C,Solido,[Ar]3d84s2,2 3,2,Metal,10,64
+Cobre,29,Cu,,63.54,1083°C,2567°C,Solido,[Ar]3d104s1,2 1,1,Metal,11,65
+Cinc,30,Zn,,65.37,419.6°C,906°C,Solido,[Ar]3d24s2,2,2,Metal,12,66
+Galio,31,Ga,,69.72,29.8°C,2403°C,Solido,[Ar]3d104s22p1,3,3,Metal,13,67
+Germanio,32,Ge,,72.59,947.4°C,2830°C,Solido,[Ar]3d104s24p2,4 2,4,Metal,14,68
+Arsenico,33,As,,74.99,817°C,617°C,Solido,[Ar]3d104s24p3,±3 +5,5,Metal,15,69
+Selenio,34,Se,,78.96,217°C,685°C,Solido,[Ar]3d104s24p4,4 2 6,6,Nometal,16,70
+Bromo,35,Br,,79.91,-7.2°C,58.8°C,Solido, [Ar]3d104s24p5,±1 +5,7,Nometal,17,71
+Cripton,36,Kr,,83.8,-157°C,-152°C,Solido,[Ar]3d104s24p6,0,8,Nometal,18,72
+Rubidio,37,Rb,,85.47,38.9°C,686°C,Solido,[Kr]5s1,1,1,Metal,1,73
+Estroncio,38,Sr,,87.62,769°C,1384°C,Solido,[Kr]5s2,2,2,Metal,2,74
+Itrio,39,Y,,88.91,1523°C,3337°C,Solido,[Kr]4d15s2,3,3,Metal,3,75
+Circonio,40,Zr,,91.22,1852°C,4377°C,Solido,[Kr]4d25s2,4,4,Metal,4,76
+Niobio,41,Nb,,92.91,2468°C,4742°C,Solido,[Kr]4d45s1,5 3,5,Metal,5,77
+Molibdeno,42,Mo,,95.94,2617°C,4612°C,Solido,[Kr]4d55s1,6 3 5,6,Metal,6,78
+Tecnecio,43,Tc,,96.91,2172°C,4877°C,Solido,[Kr]4d55s2,7 4 6,7,Metal,7,79
+Rutenio,44,Ru,,101.07,2310°C,3900°C,Solido,[Kr]4d75s1,4 3 6 8,8,Metal,8,80
+Rhodium,45,Rh,,102.9,1966°C,3727°C,Solido,[Kr]4d85s1,3 4 6,9,Metal,9,81
+Paladio,46,Pd,,106.4,1554°C,3140°C,Solido,[Kr]4d10,2 4,10,Metal,10,82
+Plata,47,Ag,,107.87,962°C,2212°C,Solido,[Kr]4d105s1,1,1,Metal,11,83
+Cadmio,48,Cd,,112.4,320.9°C,765°C,Solido, [Kr]4d105s2,2,2,Metal,12,84
+Indio,49,In,,114.82,156.6°C,2080°C,Solido,[Kr]4d105s25p1,3,3,Metal,13,85
+Estaño,50,Sn,,118.69,232°C,2270°C,Solido,[Kr]4d105s25p2,4 2,4,Metal,14,86
+Antimonio,51,Sb,,121.75,631°C,1950°C,Solido,[Kr]4d105s25p3,3 5,5,Metal,15,87
+Telurio,52,Te,,127.6,449.5°C,989.8°C,Solido,[Kr]4d105s225p4,4 6 2,6,Metal,16,88
+Yodo,53,I,,126.9,113.5°C,184°C,Solido,[Kr]4d105s25p5,1  5 7,7,Nometal,17,89
+Xenon,54,Xe,,131.3,-111.8°C,-107.1°C,Gas,[Kr]4d105s25p6,0,8,Nometal,18,90
+Cesio,55,Cs,,132.9,28.4°C,669°C,Solido,[Xe]6s1,1,1,Metal,1,91
+Bario,56,Ba,,137.34,725°C,1640°C,Solido,[Xe]6s2,2,2,Metal,2,92
+Lactanidos,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,93
+Lantano,57,La,,138.91,920°C,3454°C,Solido,[Xe]5d16s2,3,3,Nometal,0,127
+Cerio,58,Ce,,140.12,798°C,3257°C,Solido,[Xe]4f15d16s2,3 4,4,Nometal,0,128
+Praseodimio,59,Pr,,140.91,931°C,3017°C,Solido,[Xe]4f36s2,3,5,Nometal,0,129
+Neodimio,60,Nd,,144.24,1016°C,3127°C,Solido,[Xe]4f46s2,3,6,Nometal,0,130
+Prometio,61,Pm,,144.91,1042°C,3000°C,Solido,[Xe]4f56s2,3,7,Nometal,0,132
+Samario,62,Sm,,150.35,1074°C,1794°C,Solido,[Xe]4f66s2,3 2,2,Nometal,0,133
+Europio,63,Eu,,151.96,822°C,1529°C,Solido, [Xe]4f76s2,3 2,2,Nometal,0,134
+Gadolinio,64,Gd,,157.25,1313°C,3273°C,Solido,[Xe]4f75d16s2,3,2,Nometal,0,135
+Terbio,65,Tb,,158.92,1365°C,3230°C,Solido,[Xe]4f96s2,3 4,2,Nometal,0,136
+Disprosio,66,Dy,,162.5,1412°C,2567°C,Solido,[Xe]4f106s2,3,2,Nometal,0,137
+Holmio,67,Ho,,164.93,1474°C,2700°C,Solido,[Xe]4f116s2,3,3,Nometal,0,138
+Erbio,68,Er,,167.26,1529°C,2868°C,Solido,[Xe]4f126s2,3,2,Nometal,0,139
+Tulio,69,Tm,,168.93,1545°C,1950°C,Solido, [Xe]4f136s2, 3 2,2,Nometal,0,140
+Iterbio,70,Yb,,173.04,819°C,1196°C,Solido, [Xe]4f146s2,3 2,2,Nometal,0,141
+Lutecio,71,Lu,,174.97,1663°C,3402°C,Solido,[Xe]4f145d162,3,2,Nometal,0,142
+Hafnio,72,Hf,,178.49,2227°C,4600°C,Solido, [Xe]4f145d26s2,4,4,Metal,4,94
+Tantalio,73,Ta,,180.95,2996°C,5425°C,Solido, [Xe]4f145d36s2,5,5,Metal,5,95
+Tungsteno,74,W,,183.85,3410°C,5660°C,Solido,[Xe]4f145d46s2,6 4,6,Metal,6,96
+Renio,75,Re,,186.2,3180°C,5600°C,Solido,[Xe]4f145d56s2,7 4 6,7,Metal,7,97
+Osmio,76,Os,,190.2,3045°C,5030°C,Solido,[Xe]4f145d66s2,4 6 8,8,Metal,8,98
+Iridio,77,Ir,,192.22,2410°C,4130°C,Solido,[Xe]4f145d76s2,4 3 6,9,Metal,9,99
+Platino,78,Pt,,195.09,1772°C,3827°C,Solido,[Xe]4f145d96s1,4 2,2,Metal,10,100
+Oro,79,Au,,196.97,1064°C,3080°C,Solido,[Xe]4f145d106s1,3 1,1,Metal,11,101
+Mercurio,80,Hg,,200.59,-38.9°C,357°C,Liquido,[Xe]4f145d106s2,2 1,2,Metal,12,102
+Talio,81,Tl,,204.37,303°C,1457°C,Solido, [Xe]4f145d106s26p1,1 3,3,Metal,13,103
+Plomo,82,Pb,,207.19,327.5°C,1740°C,Solido,[Xe]4f145d106s26p2,2 4,4,Metal,14,104
+Bismuto,83,Bi,,208.98,271°C,1560°C,Solido,[Xe]4f145d106s26p3,3 5,5,Metal,15,105
+Polonio,84,Po,,208.98,254°C,962°C,Solido,[Xe]4f145d106s26p4, 4 2,6,Metal,16,106
+Astato,85,At,,209.99,302°C,337°C,Solido,[Xe]4f145d106s26p5,0,7,Metal,17,107
+Radon,86,Rn,,222.02,-71°C,-61.8°C,Gas, [Xe]4f145d106s26p6,0,8,Nometal,18,108
+Francio,87,Fr,,223.02,27°C,677°C,Solido,[Rn]7s1,1,1,Metal,1,109
+Radio,88,Ra,,226,700°C,1140°C,Solido,[Rn]7s2,2,2,Metal,2,110
+Actinidos,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,111
+Actinio,89,Ac,,227.03,1050°C,3200°C,Solido, [Rn]6d17s2,3,3,Nometal,0,143
+Torio,90,Th,,232.04,1750°C,4790°C,Solido,[Rn]6d27s2,4,4,Nometal,0,144
+Protactinio,91,Pa,,231.04,1570°C,4000°C,Solido,[Rn]5f26d17s2,5 4,5,Nometal,0,145
+Uranio,92,U,,238.03,1132°C,3818°C,Solido,[Rn]5f36d17s2,6 3 4 5,6,Nometal,0,146
+Neptunio,93,Np,,237,640°C,3900°C,Solido,[Rn]5f46d17s2,5 3 4 6,7,Nometal,0,147
+Plutonio,94,Pu,,242,641°C,3232°C,Solido,[Rn]5f67s2,4 3 5 6,2,Nometal,0,148
+Americio,95,Am,,243.06,994°C, 2607°C,Solido,[Rn]5f77s2,3 4 5 6,2,Nometal,0,149
+Curio,96,Cm,,247.07,1340°C,N/A,Solido,[Rn]5f76d17s2,3,2,Nometal,0,150
+Berkelio,97,Bk,,247.07,986°C,N/A,Solido,[Rn]5f97s2,3 4,2,Nometal,0,151
+Californio,98,Cf,,251.08,N/A,N/A,Solido,[Rn]5f107s2,3,2,Nometal,0,152
+Einstenio,99,Es,,254.09,N/A,N/A,Solido,[Rn]5f117s2,3,2,Nometal,0,153
+Fermio,100,Fm,,257.1,N/A,N/A,Solido, [Rn]5f127s2,3,2,Nometal,0,154
+Mendelevio,101,Md,,257.1,N/A,N/A,Solido, [Rn]5f137s2,3 2,2,Nometal,0,155
+Nobelio,102,No,,255.09,N/A,N/A,Solido,[Rn]5f147s2,2 3,2,Nometal,0,156
+Laurencio,103,Lr,,256.1,N/A,N/A,Solido,[Rn]5f147s27p1,3,3,Nometal,0,157
+Rutherfordio,104,RF,,267,N/A,N/A,N/A,[Rn]5f146d27s2,N/A,4,Metal,4,112
+Dubnio,105,Db,,268,N/A,N/A,N/A,[Rn]5f146d37s2,N/A,5,Metal,5,113
+Seaborgio,106,Sg,,269,N/A,N/A,N/A,[Rn]5f146d47s2,N/A,6,Metal,6,114
+Bohrio,107,Bh,,270,N/A,N/A,N/A,[Rn]5f146d57s2,N/A,7,Metal,7,115
+Hasio,108,Hs,,269,N/A,N/A,N/A,[Rn]5f146d67s2,N/A,N/A,Metal,8,116
+Meitnerio,109,Mt,,278,N/A,N/A,N/A,[Rn]5f146d77s2,N/A,N/A,Metal,9,117
+Darmstatio,110,Ds,,281,N/A,N/A,N/A,[Rn]5f146d97s1,N/A,N/A,Metal,10,118
+Roentgenio,111,Rg,,281,N/A,N/A,N/A,[Rn]5f146d107s1,N/A,N/A,Metal,11,119
+Copernico,112,Cn,,285,N/A,N/A,N/A,[Rn]5f146d107s2,N/A,N/A,Metal,12,120
+Nihonio,113,NH,,286,N/A,N/A,N/A,[Rn]5f146d107s27p1,N/A,N/A,Metal,13,121
+Flerovio,114,Fl,,289,N/A,N/A,N/A,[Rn]5f14107s27p2,N/A,N/A,Metal,14,122
+Moscovio,115,Mc,,289,N/A,N/A,N/A,[Rn]5f146d107s27p3,N/A,N/A,Metal,15,123
+Livermorio,116,Lv,,293,N/A,N/A,N/A,[Rn]5f146d107s27p4,N/A,N/A,Metal,16,124
+Teneso,117,Ts,,294,N/A,N/A,N/A,[Rn]5f146d107s27p5,N/A,N/A,Metal,17,125
+Oganeson,118,Og,,294,N/A,N/A,N/A,[Rn]5f146d107s27p6,N/A,N/A,Metal,19,126
